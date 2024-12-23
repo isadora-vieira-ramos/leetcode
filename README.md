@@ -3,7 +3,7 @@ LeetCode solutions
 | # | Name | Difficulty | Solution
 | --- | --- | --- | ---| 
 | 1 | Two Sum | Easy | [C#](https://github.com/isadora-vieira-ramos/leetcode/blob/main/solutions/TwoSum.cs) |
-| 3 | Longest Substring Without Repeating Characters | Medium | [C#](https://github.com/isadora-vieira-ramos/leetcode/blob/main/solutions/TwoSum.cs) |
+| 3 | Longest Substring Without Repeating Characters | Medium | [C#](https://github.com/isadora-vieira-ramos/leetcode/blob/main/solutions/LongestSubstring.cs) |
 | 7 | Reverse Integer| Medium | [C#](https://github.com/isadora-vieira-ramos/leetcode/blob/main/solutions/ReverseInteger.cs) |
 | 9 | Palindrome Number | Easy | [C#](https://github.com/isadora-vieira-ramos/leetcode/blob/main/solutions/PalindromeNumber.cs)
 | 12| Integer To Roman | Medium | [C#](https://github.com/isadora-vieira-ramos/leetcode/blob/main/solutions/IntegerToRoman.cs) |
