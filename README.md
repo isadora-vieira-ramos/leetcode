@@ -8,6 +8,7 @@ LeetCode solutions
 | 7 | Reverse Integer| Medium | [C#](https://github.com/isadora-vieira-ramos/leetcode/blob/main/solutions/ReverseInteger.cs) |
 | 9 | Palindrome Number | Easy | [C#](https://github.com/isadora-vieira-ramos/leetcode/blob/main/solutions/PalindromeNumber.cs)
 | 12| Integer To Roman | Medium | [C#](https://github.com/isadora-vieira-ramos/leetcode/blob/main/solutions/IntegerToRoman.cs) |
+| 14| Longest Common Prefix | Easy | [C#](https://github.com/isadora-vieira-ramos/leetcode/blob/main/solutions/LongestCommonPrefix.cs) |
 | 27| Remove Element | Easy | |
 | 88 | Merge Sorted Array | Easy | |
 | 169 | Majority Element | Easy | |
