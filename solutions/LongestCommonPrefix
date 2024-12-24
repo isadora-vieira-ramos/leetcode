@@ -1,0 +1,20 @@
+public class Solution {
+    public string LongestCommonPrefix(string[] strs) {
+        string prefix = "";
+        for(int i=1; i <= strs[0].Count();i++){
+            string currentPrefix = strs[0].Substring(0, i);
+            int arrayLength = strs.Count();
+            bool t = true;
+            for(int d = 1; d < arrayLength; d++){
+                if(!strs[d].Contains(currentPrefix)){
+                    t = false;
+                    break;
+                }
+            }
+            if(t && currentPrefix.Count() > prefix.Count()){
+                prefix = currentPrefix;
+            }
+        }
+        return prefix;
+    }
+}
