@@ -9,9 +9,6 @@ LeetCode solutions
 | 9 | Palindrome Number | Easy | [C#](https://github.com/isadora-vieira-ramos/leetcode/blob/main/solutions/PalindromeNumber.cs)
 | 12| Integer To Roman | Medium | [C#](https://github.com/isadora-vieira-ramos/leetcode/blob/main/solutions/IntegerToRoman.cs) |
 | 14| Longest Common Prefix | Easy | [C#](https://github.com/isadora-vieira-ramos/leetcode/blob/main/solutions/LongestCommonPrefix.cs) |
-| 27| Remove Element | Easy | |
-| 88 | Merge Sorted Array | Easy | |
-| 169 | Majority Element | Easy | |
 | 412 | FizzBuzz| Easy | [C#](https://github.com/isadora-vieira-ramos/leetcode/blob/main/solutions/FizzBuzz.cs)|
 | 724 | Find Pivot Index | Easy | [C#](https://github.com/isadora-vieira-ramos/leetcode/blob/main/solutions/FindPivotIndex.cs)
 | 973 | K Closest Points To Origin | Medium | [C#](https://github.com/isadora-vieira-ramos/leetcode/blob/main/solutions/KClosestPointsToOrigin.cs) 
